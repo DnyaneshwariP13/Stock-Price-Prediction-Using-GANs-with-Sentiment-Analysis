@@ -42,26 +42,6 @@ nltk.download('vader_lexicon')
 2. **Run the Script**: Execute the provided Python script to train the model and generate predictions.
 3. **Visualize Results**: The script will produce plots showing the predicted vs. actual stock prices.
 
-## Project Structure
-
-```
-|-- data
-|   |-- stock_tweets.csv
-|   |-- stock_yfinance_data.csv
-|-- models_gan
-|   |-- AMD
-|       |-- generator_V_499.h5
-|       |-- discriminator_V_499.h5
-|-- scripts
-|   |-- sentiment_analysis.py
-|   |-- stock_price_prediction.py
-|-- README.md
-|-- requirements.txt
-```
-
-- **data**: Contains CSV files with stock and tweet data.
-- **models_gan**: Stores the trained models.
-- **scripts**: Python scripts for sentiment analysis and stock price prediction.
 
 ## Key Features
 
