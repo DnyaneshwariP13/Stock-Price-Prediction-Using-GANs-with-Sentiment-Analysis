@@ -1,5 +1,3 @@
-# Stock-Price-Prediction-Using-GANs-with-Sentiment-Analysis
-
 # Stock Price Prediction Using GANs with Sentiment Analysis
 
 This project leverages Generative Adversarial Networks (GANs) combined with sentiment analysis of tweets to predict stock prices. It integrates historical stock data with sentiment scores from Twitter to build a robust predictive model for stock price movements.
