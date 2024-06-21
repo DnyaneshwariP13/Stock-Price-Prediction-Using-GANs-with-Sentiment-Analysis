@@ -9,13 +9,11 @@ This project leverages Generative Adversarial Networks (GANs) combined with sent
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
 - [Model Overview](#model-overview)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -97,14 +95,3 @@ The sentiment analysis component uses VADER from the NLTK library to assign sent
 
 The project evaluates the model's performance using metrics like Root Mean Squared Error (RMSE) and plots the predicted vs. actual stock prices. The visualizations demonstrate the model's ability to capture trends and fluctuations in stock prices.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue to suggest improvements or report bugs.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides an overview of the project, its structure, and usage. For detailed implementation, please refer to the code in the `scripts` directory.
